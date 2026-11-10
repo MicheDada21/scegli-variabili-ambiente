@@ -3,7 +3,7 @@ name: scegli-variabili-ambiente
 description: "Decides whether an environment variable belongs on Vercel, on Convex or on both by where the code reads it, and sets it without exposing its value. Use when adding, moving or missing a variable."
 ---
 
-# Scegli dove mettere le variabili d'ambiente
+# Scegli variabili ambiente
 
 ## Principio
 
