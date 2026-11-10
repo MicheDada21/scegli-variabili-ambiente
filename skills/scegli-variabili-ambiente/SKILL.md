@@ -1,5 +1,5 @@
 ---
-name: variabili-ambiente-vercel-convex
+name: scegli-variabili-ambiente
 description: "Decide se una variabile d'ambiente va su Vercel, su Convex o su entrambi in base a dove il codice la legge, e la imposta senza scriverla in chiaro. Usa quando in un progetto Next.js su Vercel con Convex si aggiunge, sposta o manca una variabile d'ambiente."
 ---
 
