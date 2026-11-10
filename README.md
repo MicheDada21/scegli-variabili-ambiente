@@ -15,7 +15,7 @@ In Claude Code aggiungi una volta il marketplace e installa il plugin.
 
 Da shell i comandi sono `claude plugin marketplace add MicheDada21/ch-labs-skills` e `claude plugin install scegli-variabili-ambiente@ch-labs-skills`. Nell'app desktop premi + accanto al campo del prompt, apri Plugins, aggiungi il marketplace `MicheDada21/ch-labs-skills` con Add marketplace e poi il plugin con Add plugin.
 
-Per avere tutte le skill della libreria installa `tutte-le-skill@ch-labs-skills`. Con altri agenti copia la cartella `skills/scegli-variabili-ambiente` tra le skill dell'agente, per esempio in `~/.codex/skills/scegli-variabili-ambiente`.
+Con altri agenti copia la cartella `skills/scegli-variabili-ambiente` tra le skill dell'agente, per esempio in `~/.codex/skills/scegli-variabili-ambiente`.
 
 ## Licenza
 
